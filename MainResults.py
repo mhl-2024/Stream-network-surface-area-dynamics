@@ -834,7 +834,6 @@ def main(data_dir=None,us_boundary_path=None,output_dir=None):
 # By default, the code runs without a U.S. boundary shapefile.
 
 if __name__ == "__main__":
-    #main()
-    main(data_dir=r'U:\L\Stream_Network_Dynamics\Manuscript\Science_firstSubmission\data',us_boundary_path=None,output_dir='U:\L\Stream_Network_Dynamics\Manuscript\Science_firstSubmission\data')
+    main()
 
 
